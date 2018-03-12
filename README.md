@@ -16,3 +16,11 @@ npm run build
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## UI
+
+![validations](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/images/validations.png)
+
+![failed](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/images/failed.png)
+
+![success](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/images/success.png)
