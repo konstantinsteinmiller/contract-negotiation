@@ -1,6 +1,7 @@
 # negotiation app
 
 > Enables negotiating between employer and employee
+> checkout the hosted version: [contract-negotiation](http://konstantin.steinmiller.bplaced.de/contract-negotiation)
 
 ## Build Setup
 
@@ -19,8 +20,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## UI
 
-![validations](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/images/validations.png)
+![validations](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/static/validations.png)
 
-![failed](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/images/failed.png)
+![failed](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/static/failed.png)
 
-![success](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/images/success.png)
+![success](https://raw.githubusercontent.com/konstantinsteinmiller/contract-negotiation/master/static/success.png)
