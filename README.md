@@ -1,6 +1,6 @@
 # negotiation app
 
-> 
+> Enables negotiating between employer and employee
 
 ## Build Setup
 
